@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/redirect-test-1"
+  to = "com.coinbase.consumer://open-banking"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/redirect-test-2"
+  to = "https://www.coinbase.com/open-banking"
+  status = 302
+  force = true
